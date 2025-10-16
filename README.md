@@ -16,7 +16,7 @@ A modern, sleek **Java Swing calculator** built with **MVC architecture** and a 
 
 ## **Screenshots**
 
-![Calculator Screenshot](screenshot.png) *(Optional: Add your screenshot here)*
+![Calculator Screenshot](image.png) 
 
 ---
 
